@@ -93,7 +93,7 @@ A **a2syncode** é uma startup de desenvolvimento web focada em criar soluções
 
 ## 📞 Contato
 
-- **Email:** contato@a2syncode.com
+- **Email:** a2syncode@gmail.com
 - **GitHub:** [@a2syncode](https://github.com/a2syncode)
 - **Localização:** Caxias - MA, Brasil
 
